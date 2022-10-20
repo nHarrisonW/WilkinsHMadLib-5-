@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHMadLib(5)/gitHubProj5.csproj": {}
+    "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\GitRepository\\WilkinsHMadLib-5-\\gitHubProj5.csproj": {}
   },
   "projects": {
-    "/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHMadLib(5)/gitHubProj5.csproj": {
+    "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\GitRepository\\WilkinsHMadLib-5-\\gitHubProj5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHMadLib(5)/gitHubProj5.csproj",
+        "projectUniqueName": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\GitRepository\\WilkinsHMadLib-5-\\gitHubProj5.csproj",
         "projectName": "gitHubProj5",
-        "projectPath": "/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHMadLib(5)/gitHubProj5.csproj",
-        "packagesPath": "/Users/nigelwilkins/.nuget/packages/",
-        "outputPath": "/Users/nigelwilkins/Desktop/CodestackMain/Homework/WilkinsHMadLib(5)/obj/",
+        "projectPath": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\GitRepository\\WilkinsHMadLib-5-\\gitHubProj5.csproj",
+        "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\GitRepository\\WilkinsHMadLib-5-\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/nigelwilkins/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
